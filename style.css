@@ -3,6 +3,12 @@
   padding: 0;
   background-color: black;
 }
+section {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
 video {
   width: 500px;
   margin-top: 2rem;
